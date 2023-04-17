@@ -7,7 +7,7 @@ title: About
 
 ### Why
 
-While women are **desperatley** looking for jobs once they have been out of the ***game*** for so long taking care of the families, and many companies are looking for tech talent we want to help the women tap into this opportunities.
+While women are **desperatley** looking for jobs once they have been out of the ***game*** for so long taking care of their families, and many companies are looking for tech talent we want to help the women tap into this opportunities.
 
 ### How
 We do this by connecting women to this online courses that they can learn at there own free time and in the comfort of there home for free.
