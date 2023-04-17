@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Women in Tech
+title: Family Women in Tech
 email: sambabarbra@gmail.com
 author: ABAS
 
